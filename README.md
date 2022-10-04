@@ -1,2 +1,4 @@
-# jiplak website
- jiplak website buat tugas web design
+# JIPLAK WEBSITE DETIKNEWS BUAT PRAKTEK WEB DESIGN
+### Credit
+```
+www.detiknews.com
